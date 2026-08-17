@@ -60,6 +60,7 @@ plt.tight_layout()
 plt.savefig("telecom_churn_visuals.png")
 plt.show()
 
+
 #summary
 print("--- SUMMARY DATA FOR VISUALIZATIONS ---")
 print("\n1. Churn Rate by Payment Method:")
